@@ -8,6 +8,8 @@ public class SpringbootdataprocessingApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootdataprocessingApplication.class, args);
+		System.out.println("hello world");
+		System.out.println("updating");
 	}
 
 }
